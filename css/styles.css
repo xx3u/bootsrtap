@@ -6,3 +6,17 @@
     height: 500px;
     object-fit: cover;
 }
+.meadiumHeading {
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 20px;
+    border-bottom: 1px solid lightgray;
+}
+.container.services {
+    padding: 20px;
+}
+.card-text {
+    height: 100px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
