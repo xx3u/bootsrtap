@@ -1,0 +1,8 @@
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+}
+.d-block.w-100{
+    width: auto;
+    height: 500px;
+    object-fit: cover;
+}
